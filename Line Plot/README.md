@@ -11,4 +11,4 @@ The [Notebook here](https://github.com/Tarun-Kamboj/Data_Visualization_with_Pyth
 
 ![](img.png)
 
-### Thanks for Reading :)
+## Thanks for Reading :)
