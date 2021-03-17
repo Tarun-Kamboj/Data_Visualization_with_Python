@@ -7,6 +7,8 @@
 
 A `line chart` or `line plot` is a type of plot which displays information as a series of data points called markers connected by straight line segments. It is a basic type of chart common in many fields. Use line plot when you have a continuous data set. These are best suited for trend-based visualizations of data over a period of time.
 
+The [Notebook here](https://github.com/Tarun-Kamboj/Data_Visualization_with_Python/blob/master/Line%20Plot/Notebook.ipynb) contains the code of line plots like the one shown below.
+
 ![](img.png)
 
 ### Thanks for Reading :)
