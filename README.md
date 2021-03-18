@@ -1,6 +1,8 @@
-# Data_Visualization_with_Python
+# Data Visualization with Python
 
 ### This repo is yet to be completed.
+
+![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 | <h3><a href="https://github.com/Tarun-Kamboj/Data_Visualization_with_Python/tree/master/Line%20Plot">1. Line Plot</a></h3> | <img src="Line%20Plot/img.png"> |
 |---|---|
