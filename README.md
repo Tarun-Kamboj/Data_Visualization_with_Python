@@ -8,5 +8,5 @@ This repository contains code for various plots made in python. Following table 
 
 | <h3><a href="Line%20Plot">1. Line Plot</a></h3> | <img width="600px" src="Line%20Plot/img.png"> |
 |---|---|
-| <h3><a href="Area%20Plot">2. Area Plot</a></h3> | <img src="Area%20Plot/img.png"> |
+| <h3><a href="Area%20Plot">2. Area Plot</a></h3> | <img width="600px" src="Area%20Plot/img.png"> |
 | <h3><a href="Histogram">3. Histogram</a></h3> | <img src="Histogram/img.png"> |
