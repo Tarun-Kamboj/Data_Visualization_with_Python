@@ -1,4 +1,4 @@
-# Area Plot in Python
+# Histogram in Python
 
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg) <br>
 ![](https://img.shields.io/badge/jupyter-6.2.0-ff7a05?style=for-the-badge&logo=Jupyter)
