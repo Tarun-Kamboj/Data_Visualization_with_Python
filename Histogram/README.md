@@ -5,9 +5,9 @@
 ![](https://img.shields.io/badge/pandas-1.2.3-150458?style=for-the-badge&logo=pandas)
 ![](https://img.shields.io/badge/matplotlib-3.3.4-224099?style=for-the-badge)
 
-`Area Graphs` or `Area Plots` are [`Line Plots`](https://github.com/Tarun-Kamboj/Data_Visualization_with_Python/tree/master/Line%20Plot) but with the area below the line filled in with a certain colour or texture.
+A `Histogram` is a way of representing the frequency distribution of numeric dataset. The way it works is it partitions the x-axis into bins, assigns each data point in our dataset to a bin, and then counts the number of data points that have been assigned to each bin. So the y-axis is the frequency or the number of data points in each bin.
 
-The [Notebook here](Notebook.ipynb) contains the code of area plots like the one shown below.
+The [Notebook here](Notebook.ipynb) contains the code of Histograms like the one shown below.
 
 ![](img.png)
 
