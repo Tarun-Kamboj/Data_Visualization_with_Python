@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/pandas-1.2.3-150458?style=for-the-badge&logo=pandas)
 ![](https://img.shields.io/badge/matplotlib-3.3.4-224099?style=for-the-badge)
 
-`Area Graphs` or `Area Plots` are [`Line Plots`](https://github.com/Tarun-Kamboj/Data_Visualization_with_Python/tree/master/Line%20Plot) but with the area below the line filled in with a certain colour or texture.
+`Area Graphs` or `Area Plots` are [`Line Plots`](master/Line%20Plot) but with the area below the line filled in with a certain colour or texture.
 
 The [Notebook here](Notebook.ipynb) contains the code of area plots like the one shown below.
 
