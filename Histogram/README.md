@@ -5,7 +5,9 @@
 ![](https://img.shields.io/badge/pandas-1.2.3-150458?style=for-the-badge&logo=pandas)
 ![](https://img.shields.io/badge/matplotlib-3.3.4-224099?style=for-the-badge)
 
-A `Histogram` is a way of representing the frequency distribution of numeric dataset. The way it works is it partitions the x-axis into bins, assigns each data point in our dataset to a bin, and then counts the number of data points that have been assigned to each bin. So the y-axis is the frequency or the number of data points in each bin.
+A `histogram` is an approximate representation of the distribution of numerical data. It was first introduced by Karl Pearson. To construct a histogram, the first step is to "bin" (or "bucket") the range of values—that is, divide the entire range of values into a series of intervals—and then count how many values fall into each interval. The bins are usually specified as consecutive, non-overlapping intervals of a variable. The bins (intervals) must be adjacent and are often (but not required to be) of equal size.
+
+If the bins are of equal size, a rectangle is erected over the bin with height proportional to the frequency—the number of cases in each bin. A histogram may also be normalized to display "relative" frequencies. It then shows the proportion of cases that fall into each of several categories, with the sum of the heights equaling 1.
 
 The [Notebook here](Notebook.ipynb) contains the code of Histograms like the one shown below.
 
