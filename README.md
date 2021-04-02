@@ -8,7 +8,7 @@
 	<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-5462ff?style=for-the-badge"></a>
 	<img src="https://img.shields.io/badge/Contributions-Welcome-a92ff5?style=for-the-badge">
 	<a href="#"><img src="https://img.shields.io/badge/deployment-Na-573bd4?style=for-the-badge"></a>
-	<img src="https://img.shields.io/badge/IDE-jupyter_Notebook-ff7a05?style=for-the-badge&logo=Jupyter">
+	<img src="https://img.shields.io/badge/IDE-jupyter-ff7a05?style=for-the-badge&logo=Jupyter">
 	<img src="https://img.shields.io/badge/language-python-3776AB?style=for-the-badge&logo=Python">
 </p>
 
