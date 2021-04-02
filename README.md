@@ -20,6 +20,7 @@ This repository contains code for various plots made in python. Following table 
 |---|---|
 | <h3><a href="Area%20Plot">2. Area Plot</a></h3> | <img src="Area%20Plot/img.png"> |
 | <h3><a href="Histogram">3. Histogram</a></h3> | <img src="Histogram/img.png"> |
+| <h3><a href="Bar%20Chart">4. Bar Chart</a></h3> | <img src="Bar%20Chart/img.png"> |
 
 
 ## Thanks for Reading :)
