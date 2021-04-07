@@ -1,4 +1,4 @@
-# Line Plot in Python
+# Line Plots
 
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
