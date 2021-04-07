@@ -1,4 +1,4 @@
-# Area Plot in Python
+# Area Plots
 
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
