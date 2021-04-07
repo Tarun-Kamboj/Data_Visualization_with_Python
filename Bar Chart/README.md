@@ -1,4 +1,4 @@
-# Bar Chart using Python
+# Bar Charts
 
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
