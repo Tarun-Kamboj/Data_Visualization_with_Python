@@ -1,4 +1,4 @@
-# Histogram in Python
+# Histograms
 
 ![](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
