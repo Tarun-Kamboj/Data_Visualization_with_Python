@@ -16,19 +16,19 @@
 
 This repository contains code for various plots made in python. Following table contains the links for the same.
 
-| <h3><a href="Line%20Plot">1. Line Plot</a></h3>
-<img width="200px" src="Line%20Plot/img.png"> | 
-<h3><a href="Area%20Plot">2. Area Plot</a></h3>
-<img width="200px" src="Area%20Plot/img.png"> | 
-<h3><a href="Histogram">3. Histogram</a></h3>
-<img width="200px" src="Histogram/img.png"> |
+| <h3><a href="Code/Line%20Plot">1. Line Plot</a></h3>
+<img width="200px" src="Code/Line%20Plot/img.png"> | 
+<h3><a href="Code/Area%20Plot">2. Area Plot</a></h3>
+<img width="200px" src="Code/Area%20Plot/img.png"> | 
+<h3><a href="Code/Histogram">3. Histogram</a></h3>
+<img width="200px" src="Code/Histogram/img.png"> |
 |---|---|---|
-| <h3><a href="Bar%20Chart">4. Bar Chart</a>
-</h3><img width="200px" src="Bar%20Chart/img.png"> | 
-<h3><a href="Pie%20Chart">5. Pie Chart</a></h3>
-<img width="200px" src="Pie%20Chart/img.png"> | 
-<h3><a href="Confusion%20Matrix">6. Confusion Matrix</a></h3>
-<img width="200px" src="Confusion%20Matrix/img.png"> |
+| <h3><a href="Code/Bar%20Chart">4. Bar Chart</a>
+</h3><img width="200px" src="Code/Bar%20Chart/img.png"> | 
+<h3><a href="Code/Pie%20Chart">5. Pie Chart</a></h3>
+<img width="200px" src="Code/Pie%20Chart/img.png"> | 
+<h3><a href="Code/Confusion%20Matrix">6. Confusion Matrix</a></h3>
+<img width="200px" src="Code/Confusion%20Matrix/img.png"> |
 
 
 ## Thanks for Reading :)
