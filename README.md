@@ -27,4 +27,6 @@ This repository contains code for various plots made in python. Following table 
 
 ## Thanks for Reading :)
 
-Created by [Tarun Kamboj](https://github.com/Tarun-Kamboj).
+[MIT License](LICENSE) Copyright (c) 2021, 
+
+Author - [Tarun Kamboj](https://github.com/Tarun-Kamboj).
