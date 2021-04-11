@@ -16,9 +16,48 @@
 
 This repository contains code for various plots made in python. Following table contains the links for the same.
 
-| <h3><a href="Code/Line%20Plot">1. Line Plot</a></h3><img width="250px" src="Code/Line%20Plot/img.png"> | <h3><a href="Code/Area%20Plot">2. Area Plot</a></h3><img width="250px" src="Code/Area%20Plot/img.png"> | <h3><a href="Code/Histogram">3. Histogram</a></h3><img width="250px" src="Code/Histogram/img.png"> |
-|---|---|---|
-| <h3><a href="Code/Bar%20Chart">4. Bar Chart</a></h3><img width="250px" src="Code/Bar%20Chart/img.png"> | <h3><a href="Code/Pie%20Chart">5. Pie Chart</a></h3><img width="250px" src="Code/Pie%20Chart/img.png"> | <h3><a href="Code/Confusion%20Matrix">6. Confusion Matrix</a></h3><img width="250px" src="Code/Confusion%20Matrix/img.png"> |
+<h3><details>
+	<summary>1. Line Plot</summary>
+	<table>
+		<th><a href="Code/Line%20Plot">Visit Directory ↗</a></th>
+		<th><img src="Code/Line%20Plot/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary>2. Area Plot</summary>
+	<table>
+		<th><a href="Code/Area%20Plot">Visit Directory ↗</a></th>
+		<th><img src="Code/Area%20Plot/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary>3. Histogram</summary>
+	<table>
+		<th><a href="Code/Histogram">Visit Directory ↗</a></th>
+		<th><img src="Code/Histogram/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary>4. Bar Chart</summary>
+	<table>
+		<th><a href="Code/Bar%20Chart">Visit Directory ↗</a></th>
+		<th><img src="Code/Bar%20Chart/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary>5. Pie Chart</summary>
+	<table>
+		<th><a href="Code/Pie%20Chart">Visit Directory ↗</a></th>
+		<th><img src="Code/Pie%20Chart/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary>6. Confusion Matrix</summary>
+	<table>
+		<th><a href="Code/Confusion%20Matrix">Visit Directory ↗</a></th>
+		<th><img src="Code/Confusion%20Matrix/img.png"></th>
+	</table>
+</details></h3>
 
 
 ## Thanks for Reading :)
