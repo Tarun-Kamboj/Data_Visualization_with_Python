@@ -14,7 +14,7 @@
 
 ## About the Repo
 
-This repository contains code for various plots made in python. Following table contains the links for the same.
+This repository contains code for various plots made in python. Following are the links for the same.
 
 <h3><details>
 	<summary>1. Line Plot</summary>
