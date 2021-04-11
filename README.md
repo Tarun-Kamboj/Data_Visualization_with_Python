@@ -17,45 +17,66 @@
 This repository contains code for various plots made in python. Following are the links for the same.
 
 <h3><details>
-	<summary>1. Line Plot</summary>
+	<summary> Line Plot</summary>
 	<table>
 		<th><a href="Code/Line%20Plot">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Line%20Plot/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
-	<summary>2. Area Plot</summary>
+	<summary> Area Plot</summary>
 	<table>
 		<th><a href="Code/Area%20Plot">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Area%20Plot/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
-	<summary>3. Histogram</summary>
+	<summary> Histogram</summary>
 	<table>
 		<th><a href="Code/Histogram">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Histogram/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
-	<summary>4. Bar Chart</summary>
+	<summary> Bar Chart</summary>
 	<table>
 		<th><a href="Code/Bar%20Chart">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Bar%20Chart/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
-	<summary>5. Pie Chart</summary>
+	<summary> Pie Chart</summary>
 	<table>
 		<th><a href="Code/Pie%20Chart">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Pie%20Chart/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
-	<summary>6. Confusion Matrix</summary>
+	<summary> Confusion Matrix</summary>
 	<table>
 		<th><a href="Code/Confusion%20Matrix">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Confusion%20Matrix/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary> Waffle Chart</summary>
+	<table>
+		<th><a href="Code/Waffle%20Chart">Visit Directory ↗</a></th>
+		<th><img width="500px" src="Code/Waffle%20Chart/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary> Word Cloud</summary>
+	<table>
+		<th><a href="Code/Word%20Cloud">Visit Directory ↗</a></th>
+		<th><img width="500px" src="Code/Word%20Cloud/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary> Maps</summary>
+	<table>
+		<th><a href="Code/Maps">Visit Directory ↗</a></th>
+		<th><img width="500px" src="Code/Maps/img2.png"></th>
 	</table>
 </details></h3>
 
