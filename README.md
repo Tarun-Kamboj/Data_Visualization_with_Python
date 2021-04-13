@@ -75,14 +75,14 @@ This repository contains code for various plots made in python. Following are th
 	<summary> Waffle Chart</summary>
 	<table>
 		<th><a href="Code/Waffle%20Chart">Visit Directory ↗</a></th>
-		<th><img width="500px" src="Code/Waffle%20Chart/img.png"></th>
+		<th><img width="600px" src="Code/Waffle%20Chart/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
 	<summary> Word Cloud</summary>
 	<table>
 		<th><a href="Code/Word%20Cloud">Visit Directory ↗</a></th>
-		<th><img width="500px" src="Code/Word%20Cloud/img.png"></th>
+		<th><img width="400px" src="Code/Word%20Cloud/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
