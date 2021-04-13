@@ -54,14 +54,14 @@ This repository contains code for various plots made in python. Following are th
 	<summary> Pie Chart</summary>
 	<table>
 		<th><a href="Code/Pie%20Chart">Visit Directory ↗</a></th>
-		<th><img width="500px" src="Code/Pie%20Chart/img.png"></th>
+		<th><img width="600px" src="Code/Pie%20Chart/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
 	<summary> Confusion Matrix</summary>
 	<table>
 		<th><a href="Code/Confusion%20Matrix">Visit Directory ↗</a></th>
-		<th><img width="500px" src="Code/Confusion%20Matrix/img.png"></th>
+		<th><img width="550px" src="Code/Confusion%20Matrix/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
@@ -89,7 +89,7 @@ This repository contains code for various plots made in python. Following are th
 	<summary> Maps</summary>
 	<table>
 		<th><a href="Code/Maps">Visit Directory ↗</a></th>
-		<th><img width="500px" src="Code/Maps/img2.png"></th>
+		<th><img width="550px" src="Code/Maps/img2.png"></th>
 	</table>
 </details></h3>
 
