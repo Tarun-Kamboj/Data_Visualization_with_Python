@@ -3,7 +3,6 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/repo-size/Tarun-Kamboj/Data_Visualization_with_Python?style=for-the-badge&color=fbff7d">
-	<img src="https://img.shields.io/badge/Completed-No-ff2b32?style=for-the-badge">
 	<img src="https://img.shields.io/badge/Maintained-Yes-0bd44a?style=for-the-badge">
 	<a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-5462ff?style=for-the-badge"></a>
 	<img src="https://img.shields.io/badge/Contributions-Welcome-a92ff5?style=for-the-badge">
@@ -28,6 +27,13 @@ This repository contains code for various plots made in python. Following are th
 	<table>
 		<th><a href="Code/Area%20Plot">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Area%20Plot/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary> Scatter Plot</summary>
+	<table>
+		<th><a href="Code/Scatter%20Plot">Visit Directory ↗</a></th>
+		<th><img width="500px" src="Code/Scatter%20Plot/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
@@ -56,6 +62,13 @@ This repository contains code for various plots made in python. Following are th
 	<table>
 		<th><a href="Code/Confusion%20Matrix">Visit Directory ↗</a></th>
 		<th><img width="500px" src="Code/Confusion%20Matrix/img.png"></th>
+	</table>
+</details></h3>
+<h3><details>
+	<summary> Bubble Plot</summary>
+	<table>
+		<th><a href="Code/Bubble%20Plot">Visit Directory ↗</a></th>
+		<th><img width="500px" src="Code/Bubble%20Plot/img.png"></th>
 	</table>
 </details></h3>
 <h3><details>
